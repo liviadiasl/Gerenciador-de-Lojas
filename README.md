@@ -49,6 +49,6 @@ Com este projeto, foi possível:
 ---
 
 ## Melhorias futuras
-- Desenvolver front-end e integrar os dois sis}5ZS:~0temas.
+- Desenvolver front-end e integrar os dois sistemas.
 - Substituir o armazenamento em memória por um banco de dados.
 - Adicionar e polir funcionalidades.
